@@ -10,7 +10,7 @@ comments: false
 
 # <center> Augustine Cha </center>
 *<center>E-mail : augustine.cha@columbia.edu</center>*
-*<center>LinkedIn : [https://www.linkedin.com/in/augustinecha/](https://www.linkedin.com/in/augustinecha/)</center>*
+*<center>LinkedIn : https://www.linkedin.com/in/augustinecha/</center>*
 ## Interests
 - Computer Vision, Machine Learning, Pattern Recognition
 
