@@ -5,13 +5,13 @@ tags: [about]
 date: 2017-11-13
 comments: false
 ---
-# <center> Augustine Hyunjong Cha </center>
 <!--<center><img src="https://drive.google.com/uc?id=1yG9VCNk1SeVyQ-jWTEHUr_An-DJytIYv" style="width: 160px;"/></center>-->
-<center><img src="https://drive.google.com/uc?id=1KW45fmTGg6AtzVp_nTVuuPgKWKXtz0_4" style="width: 400px;"/></center>
+<center><img src="IMG_3540.jpg" style="width: 400px;"/></center>
 
-*<center>E-mail : augustine.h.cha@gmail.com</center>*
-<span style="float: right;"> Last updated: Apr. 5, 2019 </span><br>
-## Research Interests
+# <center> Augustine Cha </center>
+*<center>E-mail : augustine.cha@columbia.edu</center>*
+*<center>LinkedIn : [https://www.linkedin.com/in/augustinecha/](https://www.linkedin.com/in/augustinecha/)</center>*
+## Interests
 - Computer Vision, Machine Learning, Pattern Recognition
 
 ## Education
@@ -24,7 +24,6 @@ comments: false
 </div>
 &emsp;&emsp; <b>Columbia University</b><br>
 &emsp;&emsp;  M.S. in <i>Computer Science</i><br>
-&emsp;&emsp;  Machine Learning Track<br>
 &emsp;&emsp;  Sep. 2019 ~ Present
 </p>  
 <br>
@@ -35,13 +34,12 @@ comments: false
 </div>
 &emsp;&emsp; <b>Konkuk University</b><br>
 &emsp;&emsp;  B.S. in <i>Electronics Engineering</i><br>
-&emsp;&emsp;  Adviser: Wonjun Kim<br>
 &emsp;&emsp;  Mar. 2011 ~ Feb. 2019
 </p>  
   
   
 ## Work Experience
-- **Research Engineer**  <span style="float: right;"> Dec. 2018 ~ Current </span><br>
+- **Software Engineer**  <span style="float: right;"> Dec. 2018 ~ Current </span><br>
 *Analogue plus*, Seongnam, South Korea  
 	- Participating on a Smart Farm project to develop an autonomous harvesting system. Applying computer vision and deep learning algorithms to detect fruits in orchards. 
 	- Developing path finding algorithms for a robot-arm to harvest detected fruits. 

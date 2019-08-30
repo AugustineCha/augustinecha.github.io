@@ -1,5 +1,5 @@
 # Site
-title:              'Augustine Hyunjong Cha'
+title:              'Augustine Cha'
 bio:                'MS Student in Computer Science, Columbia University' # 'Electronics Engineering, Konkuk University'
 description:        "MS Student in Computer Science" # "Research Engineer" # "B.S. Electronics Engineering"
 reading_time:       true
@@ -37,12 +37,12 @@ disqus_shortname:   augustinecha
   #ad-client:
   #ad-slot:
 #bing-verify:
-#email:
+email:               augustine.cha@columbia.edu
 #twitter:            username
 #facebook:           username
 #github-url:         username
 #stackoverflow:     123456/username   from a "http://stackoverflow.com/users/123456/username" link
-#linkedin:          username
+linkedin:            augustinecha
 #xing:              username
 #instagram:          username
 #lastfm:            username
