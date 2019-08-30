@@ -36,7 +36,8 @@ comments: false
 &emsp;&emsp;  B.S. in <i>Electronics Engineering</i><br>
 &emsp;&emsp;  Mar. 2011 ~ Feb. 2019
 </p>  
-  
+<br>
+<br>  
   
 ## Work Experience
 - **Software Engineer**  <span style="float: right;"> Dec. 2018 ~ Current </span><br>
