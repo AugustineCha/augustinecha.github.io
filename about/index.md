@@ -24,7 +24,7 @@ comments: false
 </div>
 &emsp;&emsp; <b>Columbia University</b><br>
 &emsp;&emsp;  M.S. in <i>Computer Science</i><br>
-&emsp;&emsp;  Sep. 2019 ~ Present
+&emsp;&emsp;  Aug. 2019 ~ Present
 </p>  
 <br>
 
@@ -40,7 +40,7 @@ comments: false
 <br>  
   
 ## Work Experience
-- **Software Engineer**  <span style="float: right;"> Dec. 2018 ~ Current </span><br>
+- **Software Engineer**  <span style="float: right;"> Dec. 2018 ~ Jun. 2019 </span><br>
 *Analogue plus*, Seongnam, South Korea  
 	- Participating on a Smart Farm project to develop an autonomous harvesting system. Applying computer vision and deep learning algorithms to detect fruits in orchards. 
 	- Developing path finding algorithms for a robot-arm to harvest detected fruits. 
