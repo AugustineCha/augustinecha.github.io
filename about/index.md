@@ -14,7 +14,7 @@ comments: false
 
 <span style="float: right;"> Updated: Apr. 9, 2020 </span><br>
 
-<font size="4">I'll be working as a <span style="color:#00A4EF">*Research Engineer Intern*</span>  at <span style="color:#767676"><span><img src="microsoft.jpg" style="width: 15px;"/></span> Microsoft</span> this Summer!</font><br>
+<p>I'll be working as a <span style="color:#00A4EF">Research Engineer Intern</span>  at <span style="color:#767676"><span><img src="microsoft.jpg" style="width: 13px;"/></span> Microsoft</span> this Summer!</p><br>
 
 ## Interests
 - Computer Vision, Machine Learning, Pattern Recognition
