@@ -6,6 +6,14 @@ date: 2017-11-13
 comments: false
 ---
 <!--<center><img src="https://drive.google.com/uc?id=1yG9VCNk1SeVyQ-jWTEHUr_An-DJytIYv" style="width: 160px;"/></center>-->
+<head>
+<style>
+img {
+  display: inline-block;
+}
+</style>
+</head>
+
 <center><img src="IMG_3540.jpg" style="width: 250px;"/></center>
 
 # <center> Augustine Cha </center>
@@ -14,7 +22,7 @@ comments: false
 
 <span style="float: right;"> Updated: Apr. 9, 2020 </span><br>
 
-<p>I'll be working as a <span style="color:#00A4EF">Research Engineer Intern</span>  at <span style="color:#767676"><span><img src="microsoft.jpg" style="width: 13px;"/></span> Microsoft</span> this Summer!</p><br>
+I'll be working as a <span style="color:#00A4EF">Research Engineer Intern</span>  at <span style="color:#767676"><span><img src="microsoft.jpg" style="width: 13px;"/></span> Microsoft</span> this Summer!
 
 ## Interests
 - Computer Vision, Machine Learning, Pattern Recognition
