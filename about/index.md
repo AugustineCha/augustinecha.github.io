@@ -12,7 +12,7 @@ comments: false
 *<center>E-mail : augustine.cha@columbia.edu</center>*
 *<center>LinkedIn : https://www.linkedin.com/in/augustinecha/</center>*
 
-### I'll be working as a <span style="color:#00A4EF">*Research Engineer Intern*</span>  at <span style="color:#767676"><span><img src="microsoft.jpg" style="width: 15px;"/></span> Microsoft</span> this Summer!
+### <p>I'll be working as a <span style="color:#00A4EF">*Research Engineer Intern*</span>  at <span style="color:#767676"><span><img src="microsoft.jpg" style="width: 15px;"/></span> Microsoft</span> this Summer!</p>
 
 ## Interests
 - Computer Vision, Machine Learning, Pattern Recognition
