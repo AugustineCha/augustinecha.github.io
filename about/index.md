@@ -6,11 +6,14 @@ date: 2017-11-13
 comments: false
 ---
 <!--<center><img src="https://drive.google.com/uc?id=1yG9VCNk1SeVyQ-jWTEHUr_An-DJytIYv" style="width: 160px;"/></center>-->
-<center><img src="IMG_3540.jpg" style="width: 400px;"/></center>
+<center><img src="IMG_3540.jpg" style="width: 250px;"/></center>
 
 # <center> Augustine Cha </center>
 *<center>E-mail : augustine.cha@columbia.edu</center>*
 *<center>LinkedIn : https://www.linkedin.com/in/augustinecha/</center>*
+
+### I'll be working as a <span style="color:#00A4EF">*Research Engineer Intern*</span>  at <span style="color:#767676"><span><img src="microsoft.jpg" style="width: 15px;"/></span> Microsoft</span> this Summer!
+
 ## Interests
 - Computer Vision, Machine Learning, Pattern Recognition
 
@@ -24,7 +27,8 @@ comments: false
 </div>
 &emsp;&emsp; <b>Columbia University</b><br>
 &emsp;&emsp;  M.S. in <i>Computer Science</i><br>
-&emsp;&emsp;  Aug. 2019 ~ Present
+&emsp;&emsp;  Aug. 2019 ~ Present<br>
+&emsp;&emsp;  Research Assistant
 </p>  
 <br>
 
@@ -34,11 +38,25 @@ comments: false
 </div>
 &emsp;&emsp; <b>Konkuk University</b><br>
 &emsp;&emsp;  B.S. in <i>Electronics Engineering</i><br>
-&emsp;&emsp;  Mar. 2011 ~ Feb. 2019
+&emsp;&emsp;  Mar. 2011 ~ Feb. 2019<br>
+&emsp;&emsp;  Undergraduate Researcher
 </p>  
 <br>
 <br>  
   
+## Skills
+- **Languages**: C++, Python, MATLAB, LaTeX, Markdown 
+- **Frameworks**: OpenCV, PyTorch, TensorFlow
+- **Others**: Scuba diving(PADI Adv. Open Water), Free diving(SSI Level 3)    
+  
+## Research Experience
+- **Graduate Research Assistant**, <span style="color:#21a8ff">Columbia University</span>  <span style="float: right;"> Feb. 2020 ~ Present </span><br>
+	- Currently working on invariant/equi-variant object detection for computer vision using meta learning techniques.  
+- **Undergraduate Researcher**, <span style="color:#28a745">Konkuk University</span>  <span style="float: right;"> Nov. 2016 ~ Jun. 2018 </span><br>
+	- Applied saliency detection as a filtering weight to guide feature matching algorithms to increase matching reliability. Published an international paper and gave a poster presentation based on the work.
+	- Collaborated with a colleague in a project on haze removal. Applied multi-scale superpixel using SLIC to establish a precise Dark Channel Prior(DCP) map. Published a domestic paper and gave a poster presentation based on the work. 
+	- Conducted a self-project on a learning-based feature point detector by mimicking handcraft feature detecting algorithms using neural network. Applied auto-encoding networks to learn feature points produced by SIFT.
+
 ## Work Experience
 - **Software Engineer**  <span style="float: right;"> Dec. 2018 ~ Jun. 2019 </span><br>
 *Analogue plus*, Seongnam, South Korea  
@@ -46,14 +64,6 @@ comments: false
 	- Developing path finding algorithms for a robot-arm to harvest detected fruits. 
 
 	- Creating a GUI program for object detection using computer vision and deep learning algorithms.
-
-## Research Experience
-- **Undergraduate Researcher**  <span style="float: right;"> Nov. 2016 ~ Jun. 2018 </span><br>
-*Deep Computer Vision Laboratory*, Konkuk University  
-Supervisor: Prof. Wonjun Kim  
-	- Applied saliency detection as a filtering weight to guide feature matching algorithms to increase matching reliability. Published an international paper and gave a poster presentation based on the work.
-	- Collaborated with a colleague in a project on haze removal. Applied multi-scale superpixel using SLIC to establish a precise Dark Channel Prior(DCP) map. Published a domestic paper and gave a poster presentation based on the work. 
-	- Conducted a self-project on a learning-based feature point detector by mimicking handcraft feature detecting algorithms using neural network. Applied auto-encoding networks to learn feature points produced by SIFT.
 
 ## Publications
 - **Saliency-guided feature matching for self-driving systems**  
@@ -87,10 +97,11 @@ Jehee Tae, **Augustine H. CHA**, Wonjun Kim
 *R.O.K Army* -->
 
 
-## Skills
-- Languages: C, C++, Python, MATLAB, LaTeX, Markdown 
-- Libraries: OpenCV, PyTorch, TensorFlow, PyQt
-<!--- Others: Adobe Photoshop, Scuba diving(PADI AOW), Free diving(SSI Level3)-->  
-
 <!--## Language
 - Fluent in English and native in Korean(Dual citizenship)-->
+
+## Personal Activities
+- Vice President of Club *X[deca]*  <span style="float: right;"> Jan. 2017 ~ Dec. 2017 </span><br>
+*Club Activity of Electronics, Robotics and Software Developement* 
+- Traveling around the World  <span style="float: right;"> Jan. ~ Dec. 2015 </span><br>
+*330 Days, 6 Continents, 36 Countries and 124 Cities*  
