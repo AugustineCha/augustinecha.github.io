@@ -61,10 +61,10 @@ img {
   
 ## Research Experience
 - **Graduate Research Assistant**  <span style="float: right;"> Feb. 2020 ~ Present </span><br>
-<span style="color:#21a8ff">Columbia University</span>
+<span style="color:#21a8ff">**Columbia University**</span>
 	- Currently working on invariant/equi-variant object detection for computer vision using meta learning techniques.  
 - **Undergraduate Researcher**  <span style="float: right;"> Nov. 2016 ~ Jun. 2018 </span><br>
-<span style="color:#28a745">Konkuk University</span>
+<span style="color:#28a745">**Konkuk University**</span>
 	- Applied saliency detection as a filtering weight to guide feature matching algorithms to increase matching reliability. Published an international paper and gave a poster presentation based on the work.
 	- Collaborated with a colleague in a project on haze removal. Applied multi-scale superpixel using SLIC to establish a precise Dark Channel Prior(DCP) map. Published a domestic paper and gave a poster presentation based on the work. 
 	- Conducted a self-project on a learning-based feature point detector by mimicking handcraft feature detecting algorithms using neural network. Applied auto-encoding networks to learn feature points produced by SIFT.
