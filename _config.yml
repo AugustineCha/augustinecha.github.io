@@ -1,7 +1,7 @@
 # Site
 title:              'Augustine Cha'
-bio:                'MS Student in Computer Science, Columbia University' # 'Electronics Engineering, Konkuk University'
-description:        "MS Student in Computer Science" # "Research Engineer" # "B.S. Electronics Engineering"
+bio:                'Research and Developemnt Engineer, Microsoft' # 'Electronics Engineering, Konkuk University'
+description:        "Research and Developemnt Engineer, Microsoft" # "Research Engineer" # "B.S. Electronics Engineering"
 reading_time:       true
 words_per_minute:   200
 logo:               'assets/img/AC.jpg'
@@ -37,7 +37,7 @@ disqus_shortname:   augustinecha
   #ad-client:
   #ad-slot:
 #bing-verify:
-email:               augustine.cha@columbia.edu
+email:               augustine.h.cha@gmail.com
 #twitter:            username
 #facebook:           username
 #github-url:         username
