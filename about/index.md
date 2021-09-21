@@ -17,7 +17,7 @@ img {
 <center><img src="IMG_3540.jpg" style="width: 250px;"/></center>
 
 # <center> Augustine Cha </center>
-*<center>E-mail : augustine.cha@columbia.edu</center>*
+*<center>E-mail : augustine.h.cha@gmail.com</center>*
 *<center>LinkedIn : https://www.linkedin.com/in/augustinecha/</center>*
 
 <span style="float: right;"> Updated: Sept. 21, 2021 </span><br>
